@@ -86,11 +86,11 @@
     <section class="bg-secondary position-relative pt-xl-5 vh-100 overflow-hidden">
 
         <div class="position-absolute top-0 start-0 mt-n9 ms-n5">
-            <img src="assets/images/blur-decoration-svg" class="blur-7 opacity-2" alt="Grad shape">
+            <img src="assets/images/blur-decoration-svg.svg" class="blur-7 opacity-2" alt="Grad shape">
         </div>
 
         <div class="position-absolute top-0 start-50 mt-n9 ms-n9">
-            <img src="assets/images/blur-decoration-svg" class="blur-8 opacity-1" alt="Grad shape">
+            <img src="assets/images/blur-decoration-svg.svg" class="blur-8 opacity-1" alt="Grad shape">
         </div>
         
         <div class="container text-center mx-auto position-relative pt-4 pt-sm-5">
