@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191 388" width="191" height="388">
+	<title>blur-decoration-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(175.874,102.535,-192.819,330.735,-15.339,143.672)">
+			<stop offset="0" stop-color="#06413d"/>
+			<stop offset="1" stop-color="#077870"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path class="s0" d="m69 8.7c33.9-24 93.4 5.4 113.1 49.6 19.6 44.1-1.2 102.9-16.3 149.4-15.2 46-24.7 80-52.6 115.8-27.9 35.7-73.7 73.7-95.4 61.1-21.4-12.5-18.7-75.3-14.6-116.4 4.3-41 9.7-60.4 16.7-109 7-48.6 15.1-126.2 49.1-150.5z"/>
+</svg>
