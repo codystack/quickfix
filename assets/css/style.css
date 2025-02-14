@@ -17772,10 +17772,10 @@ textarea.form-control-lg {
 }
 
 .btn-secondary {
-  --bs-btn-hover-bg: #cfd6ff;
-  --bs-btn-active-bg: #cfd6ff;
-  --bs-btn-hover-border-color: #cfd6ff;
-  --bs-btn-active-border-color: #cfd6ff;
+  --bs-btn-hover-bg: rgb(5 165 155 / 9%);
+  --bs-btn-active-bg: rgb(5 165 155 / 9%);
+  --bs-btn-hover-border-color: rgb(5 165 155 / 9%);
+  --bs-btn-active-border-color: rgb(5 165 155 / 9%);
 }
 
 .btn-success {
