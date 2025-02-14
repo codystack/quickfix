@@ -8,7 +8,7 @@ include "./components/navbar.php";
 
     <section class="position-relative pt-sm-8 pt-lg-9 pb-0 overflow-hidden">
         <div class="position-absolute top-0 end-0 z-index-2 mt-7 me-n9 d-none d-md-block">
-            <img src="assets/images/elements/grad-shape/05.png" class="rotate-180" alt="">
+            <!-- <img src="assets/images/elements/grad-shape/05.png" class="rotate-180" alt=""> -->
         </div>
 
         <div class="position-absolute top-0 start-0 ms-n4 mt-7">
@@ -26,12 +26,13 @@ include "./components/navbar.php";
             </div>
         </div>
 
-        <div class="bg-secondary-grad position-relative pb-5 pb-lg-8 px-2 px-md-5">
+        <div class="position-relative pb-5 pb-lg-8 px-2 px-md-5">
             <div class="bg-body blur-5 h-300px w-100 position-absolute top-0 start-0 mt-n5"></div>
             <div class="h-300px h-md-500px h-xl-700px z-index-2 position-relative rounded-4" style="background:url(assets/images/about.jpg) no-repeat; background-size:cover; background-position:top;"> </div>
         </div>
     </section>
 
+    <?php include "./components/cta.php"; ?>
 </main>
 
 

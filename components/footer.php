@@ -6,7 +6,7 @@
 				<a href="./">
 					<img class="h-70px" src="assets/images/logo-light.svg" alt="logo">
 				</a>
-				<p class="my-3 my-lg-4">We offer a comprehensive range of household services, encompassing laundry, cleaning, and car wash/fixing, in Nigeria.</p>
+				<p class="my-3 my-lg-4">QuickFix is a subsidiary of Quick Pocket TeeGee Limited. Company Registration No. <span class="text-primary">8130508</span></p>
 				<ul class="list-inline mb-0">
 					<li class="list-inline-item"> <a class="btn btn-xs btn-icon btn-secondary" href="https://www.facebook.com/quickfix_hq" target="_blank"><i class="bi bi-facebook lh-base"></i></a> </li>
 					<li class="list-inline-item"> <a class="btn btn-xs btn-icon btn-secondary" href="https://www.instagram.com/quickfix_hq" target="_blank"><i class="bi bi-instagram lh-base"></i></a> </li>

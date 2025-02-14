@@ -61,7 +61,7 @@ include "./components/navbar-alt.php";
                 </div>
 
                 <div class="col-lg-6 col-xxl-5 ms-auto">
-                    <div class="card card-body bg-secondary bg-opacity-50 rounded-4 p-4 p-sm-5 mb-4">
+                    <div class="card card-body bg-secondary-grad bg-opacity-50 rounded-4 p-4 p-sm-5 mb-4">
                         <h5 class="mb-4">Get in touch</h5>
 
                         <div class="d-sm-flex gap-3 mb-4">
@@ -85,7 +85,7 @@ include "./components/navbar-alt.php";
                         <div class="d-sm-flex gap-3">
                             <div class="icon-lg bg-body shadow-primary heading-color rounded-circle flex-shrink-0"><i class="bi bi-pin-map-fill"></i></div>
                             <div class="mt-3 mt-sm-0">
-                                <p class="mb-1">Are you ready for coffee?</p>
+                                <p class="mb-1">Visit us.</p>
                                 <p class="fw-semibold heading-color mb-0">21 Bisola Durosinmi Etti Dr, Lekki Phase I, Lekki 106104, Lagos.</p>
                             </div>
                         </div>

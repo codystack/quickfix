@@ -1,37 +1,12 @@
 <?php
-$page = "Home";
+$page = "Services";
 include "./components/header.php";
 include "./components/navbar.php";
 ?>
 
 <main>
 
-	<section class="position-relative overflow-hidden pt-sm-8 pt-lg-9 pb-0">
-		<div class="position-absolute end-0 top-0">
-			<img src="assets/images/elements/grad-shape/blur-decoration-2.svg" class="opacity-2 blur-9 h-300px rotate-335" alt="Grad shape">
-		</div>
-
-		<div class="container position-relative pt-4 pt-sm-0 pb-8">
-			<div class="row align-items-center">
-				<div class="col-lg-6 mb-6 mb-lg-0">
-					<h1 class="fw-bold mb-3 mb-md-4">Convenience at Your Fingertips!</h1>
-					<p class="lead mb-3 mb-md-4">Your trusted solution for laundry, house cleaning, and car wash services. Book with ease, track your order, and enjoy seamless service right from our mobile app.</p>
-
-					<div class="d-sm-flex">
-						<a href="#"> <img src="assets/images/elements/google-play.svg" class="btn-transition me-4 mb-2 mb-sm-0" width="180" alt="play store"> </a>
-						<a href="https://apps.apple.com/app/quickfixng/id6738861101" target="_blank"> <img src="assets/images/elements/app-store.svg" class="btn-transition" width="180" alt="app-store"> </a>
-					</div>
-				</div>
-
-				<div class="col-sm-9 col-lg-5 col-xxl-4 position-relative mx-auto">
-					<img src="assets/images/female-hand-holding-iphone-14-pro-mockup.png" class="aos mb-n8 mb-md-n9 mb-xxl-n8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="800" data-aos-easing="ease-in-out" alt="mobile image">
-				</div>
-
-			</div>
-		</div>
-	</section>
-
-	<section class="bg-secondary-grad position-relative overflow-hidden z-index-2 pt-6">
+	<section class="bg-secondary-grad position-relative overflow-hidden z-index-2 pt-sm-8 pt-lg-9">
 		<div class="container">
 			<div class="inner-container-small text-center mb-4 mb-md-6">
 				<h1 class="mb-0">Our Services</h1>
