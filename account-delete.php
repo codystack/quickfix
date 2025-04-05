@@ -33,7 +33,7 @@ include "./components/header.php";
 								<label class="form-check-label small" for="exampleCheck1">I agree to the <a href="terms">Terms & conditions</a> and the <a href="privacy">privacy policy</a>.</label>
 							</div>
 							
-							<div class="d-grid"><button type="submit" class="btn btn-primary">Create an account</button></div>
+							<div class="d-grid"><button type="submit" class="btn btn-primary">Delete  account</button></div>
 
 						</form>
 					</div>
