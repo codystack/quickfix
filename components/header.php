@@ -11,6 +11,7 @@
     <meta property="og:site_name" content="QuickFix&reg;">
     <meta property="og:url" content="https://quickfix.ng">
     <meta property="og:type" content="website">
+	<meta name="google-site-verification" content="3xLXgw6H6bPnsV4sJhcdOv1c25bFs5BzudmmYeFADPs" />
 
 	<script>
 		const storedTheme = localStorage.getItem('theme')
